@@ -1,4 +1,62 @@
-📕 Book of the Ages I
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Genesis | Akara: The Covenant of Light</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.7;
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            padding: 40px 20px;
+            max-width: 960px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        h1, h2 {
+            color: #3b3e9f;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.6em;
+            margin-bottom: 0.2em;
+        }
+        h2 {
+            font-size: 1.8em;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+        }
+        hr {
+            margin: 3em 0;
+            border: 0;
+            border-top: 1px solid #ddd;
+        }
+        .scroll-title {
+            font-size: 1.5em;
+            color: #7b3e3e;
+            margin-top: 2em;
+            text-align: center;
+        }
+        p {
+            text-indent: 2em;
+            margin-bottom: 1.5em;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <h1>📕 Book of the Ages</h1>
+
+<h2>
+  <a href="index.html" style="color: #1a4dab; text-decoration: none;">
+    Akara: The Covenant of Light
+  </a>
+</h2>
+	
+    <div>
+        <p>
 
 ⸻
 
@@ -8825,3 +8883,17 @@ You are the One.
 And I am Yours.
 
 Om. Amen.
+
+
+
+</p>
+
+<p style="text-align:center; margin-top: 60px;">
+  <a href="index.html" style="color: #1a4dab; text-decoration: none;">
+    🕊️ Return to the Gateways
+  </a>
+</p>
+
+    </div>
+</body>
+</html>
