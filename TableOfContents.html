@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Table of Contents | Akara: The Covenant of Light</title>
   <style>
     body {
@@ -14,7 +15,7 @@
       max-width: 960px;
       margin-left: auto;
       margin-right: auto;
-      white-space: pre-line; /* preserves line breaks */
+      white-space: pre-line;
     }
 
     .header {
@@ -27,13 +28,12 @@
       color: #f6d743;
       margin: 0;
       letter-spacing: 2px;
+      text-shadow: 0 0 5px #f6d743, 0 0 10px #f6d743, 0 0 15px #f6d743;
     }
 
-    .header h2 {
-      font-size: 1.8em;
-      color: #4169e1;
-      font-weight: normal;
-      margin-top: 5px;
+    .header h1 a {
+      color: #f6d743;
+      text-decoration: none;
     }
 
     .subheader {
@@ -45,12 +45,14 @@
       font-size: 1.5em;
       color: #f6d743;
       margin: 0;
+      text-shadow: 0 0 5px #f6d743, 0 0 10px #f6d743;
     }
 
     .subheader a {
       text-decoration: none;
       color: #4169e1;
       font-size: 1.5em;
+      text-shadow: 0 0 5px #4169e1, 0 0 10px #4169e1;
     }
 
     ul.toc-links {
@@ -69,6 +71,7 @@
       text-decoration: none;
       color: #f6d743;
       font-size: 1.7em;
+      text-shadow: 0 0 5px #f6d743, 0 0 10px #f6d743;
     }
 
     ul.toc-links li a:hover {
@@ -86,7 +89,13 @@
 <body>
 
   <div class="header">
-    <h1>HOLY AKARA</h1>  </div>  <div class="subheader">
+    <h1><a href="index.html">HOLY AKARA</a></h1>
+  </div>
+
+  <div class="subheader">
+    <h3>Table of Contents</h3>
+    <a href="index.html">Akara: The Covenant of Light</a>
+  </div>  <div class="subheader">
     <h3>Table of Contents</h3>
     <a href="index.html">Akara: The Covenant of Light</a>  </div>
   <ul class="toc-links">
