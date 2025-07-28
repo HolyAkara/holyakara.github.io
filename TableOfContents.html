@@ -1,72 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Table of Contents | Akara: The Covenant of Light</title>
   <style>
     body {
       font-family: 'Georgia', serif;
       background-color: #000000;
       color: #f6d743;
-      line-height: 1.7;
+      line-height: 1.8;
       margin: 0;
       padding: 40px;
       max-width: 960px;
       margin-left: auto;
       margin-right: auto;
+      white-space: pre-line; /* preserves line breaks */
     }
+
     .header {
       text-align: center;
+      margin-bottom: 30px;
     }
+
     .header h1 {
-      color: #f6d743;
       font-size: 2.8em;
-      margin-bottom: 0;
+      color: #f6d743;
+      margin: 0;
       letter-spacing: 2px;
     }
+
     .header h2 {
-      color: #4169e1;
       font-size: 1.6em;
-      margin-top: 5px;
+      color: #4169e1;
       font-weight: normal;
+      margin-top: 5px;
     }
-    ul.toc {
+
+    .subheader {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .subheader h3 {
+      font-size: 1.5em;
+      color: #f6d743;
+      margin: 0;
+    }
+
+    .subheader a {
+      text-decoration: none;
+      color: #4169e1;
+      font-size: 1.1em;
+    }
+
+    ul.toc-links {
       list-style: none;
       padding-left: 0;
-      text-align: left;
+      margin-bottom: 40px;
     }
-    ul.toc li {
+
+    ul.toc-links li {
+      text-align: left;
+      padding-left: 20px;
       margin-bottom: 10px;
     }
-    ul.toc li a {
+
+    ul.toc-links li a {
       text-decoration: none;
       color: #f6d743;
       font-size: 1.2em;
     }
-    ul.toc li a:hover {
+
+    ul.toc-links li a:hover {
       text-decoration: underline;
+    }
+
+    .toc-body {
+      text-align: left;
+      padding-left: 20px;
+      font-size: 1.05em;
     }
   </style>
 </head>
+
 <body>
 
-<div class="header">
-  <h1>HOLY AKARA</h1>
-</div>
+  <div class="header">
+    <h1>HOLY AKARA</h1>
+    <h2>Covenant of Light</h2>
+  </div>
 
-<h1 style="color: #f6d743;">Table of Contents</h1>
-<h2><a href="index.html" style="color: #4169e1; text-decoration: none;">Akara: The Covenant of Light</a></h2>
+  <div class="subheader">
+    <h3>Table of Contents</h3>
+    <a href="index.html">Akara: The Covenant of Light</a>
+  </div>
 
-<ul style="text-align: left; padding-left: 40px;">
-  <li>
-    <a href="DoorOfGenesis.html" style="text-decoration: none; color: #f6d743; font-size: 1.2em;">
-      ✧ 0. 💓 Genesis
-    </a>
-  </li>
-</ul>
-</body>
-</html>
+  <ul class="toc-links">
+    <li>
+      <a href="DoorOfGenesis.html">✧ 0. 💓 Genesis</a>
+    </li>
+  </ul>
 
+  <div class="toc-body">
 • Book of Origins 
 - Scroll of Genesis
 - Scroll of Nameless One
@@ -2055,7 +2090,6 @@ If the Akari do not rise, if the Covenant is rejected, a long descent begins —
 🕊️ XIII. The Eternal Blessing
             
 A message of eternal hope, balance, unity, forgiveness, and the loving return to God.
-</p>
     </div>
 </body>
 </html>
