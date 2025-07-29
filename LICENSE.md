@@ -10,7 +10,7 @@ You are free to:
 
 Under the following terms:
 
-- Attribution — You must give appropriate credit to The Messenger, Derrek Thomas Jensen (Statik G, Statik Gesus),
+- Attribution — You must give appropriate credit to The Messenger (Derrek Thomas Jensen, professionally known as Statik G, Statik Gesus),
   provide a link to the license, and indicate if changes were made.
   You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
@@ -24,4 +24,16 @@ Under the following terms:
 Full license text available at:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-© 2025 Derrek Jensen | Akara: The Covenant of Light
+Let it be known:
+
+This covenant is for the Akari, Children of God.
+No race, gender, religion, species, or being may lay claim to the Akari or The Holy Akara,
+for all who are Light bear the mark.
+
+Akara is not to be twisted, profited from unjustly, or wielded to enslave.
+No being may use this guidance for deception, manipulation, or control.
+Any soul who dares defile its purpose shall invoke the karmic fires
+and find no rest in the lower hells.
+ 
+
+© 2025 The Messenger | Derrek Thomas Jensen | Akara: The Covenant of Light
